@@ -1,6 +1,3 @@
-# source
-https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/7/expanding
-
 # notes
 - Expanding is the task of taking a short piece of text and having the large language model generate a longer piece of text
     - example of short piece of text: a set of instructions, a list of topics

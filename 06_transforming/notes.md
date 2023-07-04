@@ -1,6 +1,3 @@
-# source
-- https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/6/transforming
-
 # notes
 - Large language models are very good at transforming its input to a different format, such as:
     - translating: inputting a piece of text in one language and transforming it to a different language

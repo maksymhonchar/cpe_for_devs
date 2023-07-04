@@ -1,6 +1,3 @@
-# source
-https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/2/guidelines
-
 # notes
 
 ## about
@@ -8,7 +5,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/2/guidelines
 - Explaining x2 key principles for how to write prompts to prompt engineer effectively:
     1. Write clear and specific instructions
     2. Give the model time to think
-    - ![principle_1.png](principle_1.png "principle_1.png")
+    - ![principle_1.png](images/principle_1.png)
 - Reviewing some of model limitations
 
 ## principle 1
@@ -21,7 +18,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/2/guidelines
     - Tactic 1: Use delimiters to clearly indicate distinct parts of the input
         - Delimiter could be any kind of clear punctuation that separates specific pieces of text: `, ', <>, etc
         - Using delimiters is a good technique to avoid PROMPT INJECTIONS: useful if user input is present in the prompt
-            - ![prompt_injections.png](prompt_injections.png "prompt_injections.png")
+            - ![prompt_injections.png](images/prompt_injections.png)
     - Tactic 2: Ask for a structured output
         - To make parsing the model outputs easier, it can be helpful to ask for a structured output like HTML or JSON
     - Tactic 3: Ask the model to check whether conditions are satisfied
@@ -60,7 +57,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/2/guidelines
     - At a higher temperature, it will kind of also choose one of the less likely words and at an even higher temperature
     - If you're trying to build a system that is reliable and predictable, you should go with temperature zero
     - If you're trying to kind of use the model in a more creative way where you might kind of want a kind of wider variety of different outputs, you might want to use a higher temperature
-- ![temperature.png](temperature.png "temperature.png")
+- ![temperature.png](images/temperature.png)
 
 # additional notes
 - get openai API key: https://platform.openai.com/account/api-keys

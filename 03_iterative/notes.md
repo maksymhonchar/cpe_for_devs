@@ -1,6 +1,3 @@
-# source
-https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/3/iterative
-
 # notes
 
 ## about
@@ -17,7 +14,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/3/iterative
     3. Perform error analysis: figuring out why the instructions, were not clear enough or why it didn't give the algorithm enough time to think
     4. Refine the idea, refine the prompt
     5. Go to step 1: iterate over and over to get an effective solution
-    - ![iterative_prompt_development.png](iterative_prompt_development.png "iterative_prompt_development.png")
+    - ![iterative_prompt_development.png](images/iterative_prompt_development.png)
 - "N perfect prompts" articles are not that useful: It's more important that you have a process for developing a good prompt for your specific application
 - Conclusion:
     - Prompt Development is an iterative process

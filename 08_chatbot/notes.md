@@ -1,6 +1,3 @@
-# source
-https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/8/chatbot
-
 # notes
 - You can use LLMs to build a custom chatbot with only a modest amount of effort
 - ChatGPT, the web interface, is a way for you to have a conversational interface, a conversation via a large language model

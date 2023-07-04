@@ -1,13 +1,10 @@
-# source
-https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
-
 # notes
 
 ## the course
 - Lectors:
     - Isa Fulford https://twitter.com/isafulf?lang=en
     - Andrew Ng https://twitter.com/AndrewYNg
-    - ![lectors.png](lectors.png "Lectors")
+    - ![lectors.png](images/lectors.png)
 - Andrew NG opinion: The power of LLMs for developers is using API calls to LLM to quickly build software applications
 - Course goal:
     - sharing some of the possibilities of LLMs & best practices
@@ -23,7 +20,7 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
 - There are x2 types of LLMs:
     - Base LLMs
     - Instruction Tuned LLMs
-    - ![llm_vs_itllm.png](llm_vs_itllm.png "LLM vs IT LLM")
+    - ![llm_vs_itllm.png](images/llm_vs_itllm.png)
 - Base LLM:
     - trained to predict the next word based on text training data
     - is often trained on large amount of data from the internet/other sources

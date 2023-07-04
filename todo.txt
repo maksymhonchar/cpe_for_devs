@@ -1,0 +1,9 @@
+#
+Generate a list of top 5 Ukrainian e-commerce businesses working in 2018. - ТАМ НЕ ОК
+прибрати сео?
+зробити так щоб були пром бігль ітд?
+
+#
+Tactic 4: "Few-shot" prompting
+
+прибрати ceo, додати fun "недовольний кастомер"

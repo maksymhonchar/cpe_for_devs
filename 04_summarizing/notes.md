@@ -1,6 +1,3 @@
-# source
-https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/4/summarizing
-
 # notes
 - one of the most exciting applications of large language models is to use it to summarise text
     - example of an use case: summarise articles so one could just kind of read the content of many more articles than one previously could

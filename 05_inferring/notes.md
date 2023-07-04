@@ -1,6 +1,3 @@
-# source
-https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/5/inferring
-
 # notes
 - Inferring: deduce or conclude (something) from evidence and reasoning rather than from explicit statements.
 - Inferring tasks: tasks where the model takes a text as input and performs some kind of analysis

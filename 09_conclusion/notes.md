@@ -1,6 +1,3 @@
-# source
-https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/9/conclusion
-
 # notes
 - Things that were covered in the course:
     - x2 key principles for prompting:
